@@ -46,6 +46,10 @@ This folder contains the following detailed guides:
     *   *Focus*: Why testimonials keep the technology alive.
     *   *Keywords*: Validation Loop, Social Pulse, Proof of Utility.
 
+5.  **[Decision Criteria & Impact Modeling](./framework_decision_criteria.md)**
+    *   *Focus*: Prioritizing features by Testimonial Importance Rate (TIR).
+    *   *Keywords*: Implementation Matrix, TIR Formula, Impact Modeling.
+
 ---
 
 > [!IMPORTANT]

@@ -6,6 +6,9 @@
 
 > **This repo contains Ewe Creator Research files and folders.**
 
+## Objective
+**Keeping creation stable in technology and push for research.**
+
 ## Content Overview
 
 This repository hosts critical research and instruction sets for building the Ewe Creator ecosystem.

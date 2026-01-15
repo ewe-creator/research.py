@@ -20,3 +20,11 @@ The lifecycle stays alive through a continuous loop of creation and validation:
 ## Implementation Strategy
 *   **Showcase Section**: Dedicate a section of your docs to "Built with Ewe".
 *   **Impact Metrics**: Track not just GitHub stars, but *deployed projects*.
+
+## Immediate Plan: Build the Testimonial Engine
+
+**Why this is step one:**
+We cannot wait for organic testimonials. We must **engineer the loop**.
+
+Building a dedicated **Testimonial Engine** is the immediate priority for Ewe Creator because it creates the infrastructure to capture "Proof of Utility" from Day 1. By treating testimonials as structured data (not just text), we can programmatically inject "life" into the ecosystem, ensuring that every new creation feeds the stability signal back to the community.
+

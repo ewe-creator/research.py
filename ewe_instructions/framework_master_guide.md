@@ -42,6 +42,10 @@ This folder contains the following detailed guides:
     *   *Focus*: Achieving "High Market Metrics".
     *   *Keywords*: SEO for PyPI, Developer Experience (DX), Community Building.
 
+4.  **[The Lifecycle Engine](./framework_lifecycle.md)**
+    *   *Focus*: Why testimonials keep the technology alive.
+    *   *Keywords*: Validation Loop, Social Pulse, Proof of Utility.
+
 ---
 
 > [!IMPORTANT]

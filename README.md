@@ -1,4 +1,4 @@
-# Creator Research.py
+# Ewe.py (Research by Ewe Creator)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)

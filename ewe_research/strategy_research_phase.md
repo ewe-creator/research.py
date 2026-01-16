@@ -34,10 +34,6 @@ Research is not a luxury. It is the **foundation of the entire lifecycle**.
 *   Ensure it is **provably stable** before implementation.
 *   Output: Technical specification document.
 
-### Phase 3: User Validation (Weeks 7-8)
-*   Interview developers who use these frameworks.
-*   Ask: "What would you pay for if it existed?"
-*   Output: High-TIR testimonial candidates identified.
 
 ## 3. Why Suspend for 2 Months Specifically?
 

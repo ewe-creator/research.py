@@ -70,6 +70,10 @@ This folder contains the following detailed guides:
     *   *Focus*: When to use Paid vs Free models.
     *   *Keywords*: User Quality Filtering, Paid→Free Strategy, Anti-Freemium.
 
+11. **[Strategy: Efficient Bootstrap with $0 Investment](./strategy_efficient_bootstrap.md)**
+    *   *Focus*: Real-world examples (Linux, SQLite, Redis) and Ewe's tactics.
+    *   *Keywords*: Build in Public, Testimonial-Driven Development, Ruthless Focus.
+
 ---
 
 > [!IMPORTANT]

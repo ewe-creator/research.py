@@ -25,3 +25,19 @@ We call it abstract because it does not transact in a bank account, but it accum
 ## Conclusion
 We are not building to sell. We are building to **accumulate proof**.
 For the Ewe Creator, the highest ROI is not cash exit, but the **Permanence of the Creation**.
+
+## 4. The Paid-to-Free Strategy: A Complement, Not a Contradiction
+
+Ewe.py starts as a **paid service**, then becomes **free**.
+
+This is not a contradiction to the Abstract Token model; it is a **complement**.
+
+**The Logic**:
+1.  **Paid Phase**: Early adopters pay for access. This filters for serious users who will generate High-TIR testimonials.
+2.  **Validation Accumulation**: As testimonials accumulate, the framework proves its stability.
+3.  **Free Phase**: Once stability is proven (enough tokens mined), the framework becomes free to maximize adoption and leverage.
+
+**Why This Works**:
+*   Paid users fund the research phase without diluting the vision.
+*   Free users inherit a **battle-tested** system, not an MVP experiment.
+*   The transition from Paid → Free signals: "We have accumulated enough proof. Now we scale."

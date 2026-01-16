@@ -1,7 +1,8 @@
-# Strategy: The 2-Month Research Suspension
+# Strategy: The 2-Month Research Suspension (Creator Only)
 
 **Timeline**: January 16, 2026 → March 16, 2026  
-**Activity**: Research ONLY. No building, no shipping.
+**Activity**: Ewe Creator dedicates this period to research ONLY. No building, no shipping.  
+**Scope**: This is a personal commitment by the Creator, not a project-wide freeze.
 
 ## 1. Why Research is Critical to Ewe
 
@@ -28,15 +29,15 @@ Research is not a luxury. It is the **foundation of the entire lifecycle**.
 *   Document: What do they do well? Where do they fail?
 *   Output: Comparative analysis report.
 
-### Phase 2: User Validation (Weeks 4-6)
-*   Interview developers who use these frameworks.
-*   Ask: "What would you pay for if it existed?"
-*   Output: High-TIR testimonial candidates identified.
-
-### Phase 3: Architecture Design (Weeks 7-8)
+### Phase 2: Architecture Design (Weeks 4-6)
 *   Design the Validation Loop architecture.
 *   Ensure it is **provably stable** before implementation.
 *   Output: Technical specification document.
+
+### Phase 3: User Validation (Weeks 7-8)
+*   Interview developers who use these frameworks.
+*   Ask: "What would you pay for if it existed?"
+*   Output: High-TIR testimonial candidates identified.
 
 ## 3. Why Suspend for 2 Months Specifically?
 

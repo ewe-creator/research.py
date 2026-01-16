@@ -54,6 +54,10 @@ This folder contains the following detailed guides:
     *   *Focus*: Analysis of Django/Flask/FastAPI and the "Lifecycle Gap".
     *   *Keywords*: Landscape Analysis, Validation Loop, MVT Architecture.
 
+7.  **[Stability Success Stories](./research_stability_stories.md)**
+    *   *Focus*: Case studies from Google, Facebook, and Linux.
+    *   *Keywords*: One Version Rule, Backwards Compatibility, Linus Law.
+
 ---
 
 > [!IMPORTANT]

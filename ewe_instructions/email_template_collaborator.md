@@ -1,26 +1,18 @@
-# Collaborator Invitation Template
+Hi Streamlit Creator,
 
-**Subject**: Building [Specific Domain] with Ewe Creator
+I saw your work on Streamlit and wanted to reach out.
 
-Hi [Name],
+**The Pitch:**
+Ewe Creator is trying to build a Python framework with a **user testimonial validation loop**.
 
-I saw your work on [Project/Article] and thought you'd be a great fit for what we are building.
+It is in the **research phase**.
 
-## What is Ewe.py?
-Ewe.py is a Python framework built for stability and research. We focus on building tools that actually work and last.
+**Interested?**
 
-## Why Contribute?
-Ewe Creator (that's me) is building this with people who care about making things that matter.
-*   **Build Real Tools**: We are currently building the [Specific Component, e.g., Testimonial Engine].
-*   **Solve Real Problems**: Your code will help solve actual stability problems in tech, not just fix bugs.
-*   **Work Together**: We don't just want code; we want to build the solution with you.
-
-**Here is your invitation link:**
-[INSERT_INVITE_LINK_HERE]
-
-Let's build this together.
+Check out the research here:
+https://github.com/ewe-creator/research.py.git
 
 Best,
 
-[Your Name]
-Ewe Creator Research
+Veda
+Ewe Creator 

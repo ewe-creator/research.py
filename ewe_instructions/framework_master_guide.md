@@ -50,6 +50,10 @@ This folder contains the following detailed guides:
     *   *Focus*: Prioritizing features by Testimonial Importance Rate (TIR).
     *   *Keywords*: Implementation Matrix, TIR Formula, Impact Modeling.
 
+6.  **[Research Report: Why Framework?](./research_why_framework.md)**
+    *   *Focus*: Analysis of Django/Flask/FastAPI and the "Lifecycle Gap".
+    *   *Keywords*: Landscape Analysis, Validation Loop, MVT Architecture.
+
 ---
 
 > [!IMPORTANT]

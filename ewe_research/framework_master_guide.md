@@ -78,6 +78,10 @@ This folder contains the following detailed guides:
     *   *Focus*: First public asset strategy and validation instrument.
     *   *Keywords*: Developer Mindshare, Validation Instrument, Inverted Model.
 
+13. **[Strategy: The 2-Month Research Suspension](./strategy_research_phase.md)**
+    *   *Focus*: Jan 16 - Mar 16, 2026. Research-only period.
+    *   *Keywords*: Investment in Certainty, Landscape Analysis, User Validation.
+
 ---
 
 > [!IMPORTANT]

@@ -66,6 +66,10 @@ This folder contains the following detailed guides:
     *   *Focus*: Redefining value as "Abstract Tokens of Validated Truth".
     *   *Keywords*: Validated Cycles, Leverage vs Cash, Permanence.
 
+10. **[Theory: Upfront Cost as Filter Mechanism](./theory_upfront_cost.md)**
+    *   *Focus*: When to use Paid vs Free models.
+    *   *Keywords*: User Quality Filtering, Paid→Free Strategy, Anti-Freemium.
+
 ---
 
 > [!IMPORTANT]

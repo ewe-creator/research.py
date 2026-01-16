@@ -62,6 +62,10 @@ This folder contains the following detailed guides:
     *   *Focus*: The danger of "Action Fallacy" and Lifecycle Debt.
     *   *Keywords*: Verification Gap, Deployment of Truth, Slow is Smooth.
 
+9.  **[The Economics of Ewe: Money is Abstract](./philosophy_economics.md)**
+    *   *Focus*: Redefining value as "Abstract Tokens of Validated Truth".
+    *   *Keywords*: Validated Cycles, Leverage vs Cash, Permanence.
+
 ---
 
 > [!IMPORTANT]

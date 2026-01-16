@@ -82,6 +82,10 @@ This folder contains the following detailed guides:
     *   *Focus*: Jan 16 - Mar 16, 2026. Research-only period.
     *   *Keywords*: Investment in Certainty, Landscape Analysis, User Validation.
 
+14. **[Market Trends: Why Users Pay for Python Frameworks](./market_why_users_pay.md)**
+    *   *Focus*: Data-driven analysis of paid Python tool market.
+    *   *Keywords*: DX Tax, Insurance Model, Lifecycle Instability.
+
 ---
 
 > [!IMPORTANT]

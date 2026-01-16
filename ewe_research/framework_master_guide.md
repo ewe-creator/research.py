@@ -74,6 +74,10 @@ This folder contains the following detailed guides:
     *   *Focus*: Real-world examples (Linux, SQLite, Redis) and Ewe's tactics.
     *   *Keywords*: Build in Public, Testimonial-Driven Development, Ruthless Focus.
 
+12. **[Tactic: Zero-to-One with Paid Code Editor Plugin](./tactic_zero_to_one.md)**
+    *   *Focus*: First public asset strategy and validation instrument.
+    *   *Keywords*: Developer Mindshare, Validation Instrument, Inverted Model.
+
 ---
 
 > [!IMPORTANT]

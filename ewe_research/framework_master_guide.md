@@ -58,6 +58,10 @@ This folder contains the following detailed guides:
     *   *Focus*: Case studies from Google, Facebook, and Linux.
     *   *Keywords*: One Version Rule, Backwards Compatibility, Linus Law.
 
+8.  **[Why Action is Last Priority](./research_why_action_is_last.md)**
+    *   *Focus*: The danger of "Action Fallacy" and Lifecycle Debt.
+    *   *Keywords*: Verification Gap, Deployment of Truth, Slow is Smooth.
+
 ---
 
 > [!IMPORTANT]
